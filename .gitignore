@@ -27,3 +27,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/libs/jsoup-1.15.2.jar
